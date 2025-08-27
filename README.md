@@ -62,6 +62,6 @@ The dashboard provides a 360° view of sales performance across categories, regi
 
 ## 🤝 Feedback & Collaboration
 
-I’d love to hear your thoughts! Feel free to open issues, suggest improvements, or connect with me on [LinkedIn](your-linkedin-url).
+I’d love to hear your thoughts! Feel free to open issues, suggest improvements, or connect with me on [LinkedIn](https://www.linkedin.com/in/sneha-bhagat-43a22a232/).
 
 ---
